@@ -1,9 +1,5 @@
 # HardGAN: A Haze-Aware Representation Distillation GAN for Single Image Dehazing
 
-## News
-
-[2020/11/05] Our code released.
-
 ## Reuqirements
 
 Pytorch >= 1.1.0
